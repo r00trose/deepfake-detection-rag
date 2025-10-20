@@ -1,0 +1,9 @@
+streamlit==1.29.0
+tensorflow==2.15.0
+opencv-python==4.8.1.78
+pillow==10.1.0
+numpy==1.24.3
+kaggle==1.5.16
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
